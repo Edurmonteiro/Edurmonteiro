@@ -4,9 +4,9 @@
 
 Olá, eu sou Eduardo Rodrigo Monteiro Paixão! 👋
 
-Sou apaixonado por tecnologia e atualmente estou estudando programação com foco em Java. Estou sempre buscando aprender novas tecnologias, criar projetos práticos e aprimorar minhas habilidades como desenvolvedor.
+Sou apaixonado por tecnologia e atualmente estudo programação com foco em Java e desenvolvimento Back-end. Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e aprimorar minhas habilidades como desenvolvedor.
 
-Aqui você encontrará meus projetos, estudos e minha evolução ao longo da jornada na área de tecnologia.
+Aqui você encontrará meus projetos, estudos e minha evolução ao longo da minha jornada na área de tecnologia.
 
 <p align="left">
     <img
